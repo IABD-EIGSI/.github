@@ -26,13 +26,13 @@ Ce que nous mettons en avant :
 
 Former une nouvelle génération d’ingénieurs capable de construire le monde numérique de demain à travers un écosystème basé sur trois axes complémentaires :
 
- 1. Excellence pédagogique
+ #### 1. Excellence pédagogique
 - Parcours pédagogiques innovants, mis à jour chaque année pour suivre les tendances du marché.
 
- 2. Recherche & Développement
+ #### 2. Recherche & Développement
 - Renforcement des compétences scientifiques et techniques via des projets R&D, en partenariat avec l’industrie, pour développer des compétences professionnelles.
 
- 3. Événementiel et networking
+ #### 3. Événementiel et networking
 - Organisation d’événements pour favoriser le réseautage, renforcer les soft skills et préparer les étudiants aux défis du monde professionnel.
 
 <p align="center">
