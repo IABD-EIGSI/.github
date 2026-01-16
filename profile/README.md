@@ -3,23 +3,8 @@
 
 </p>
 
-<h1 align="center">
-IABD – Intelligence Artificielle & Big Data
-</h1>
-
-<h3 align="center">
-Au service de l’intelligence de demain
-</h3>
 
 <p align="center">
-Organisation officielle de la filière IABD – Intelligence Artificielle & Big Data  
-École d’Ingénieurs EIGSI Casablanca, Maroc
-</p>
-
----
-
-## À propos
-
 Bienvenue sur l’espace GitHub officiel de la **filière IABD – Intelligence Artificielle & Big Data** de l’EIGSI Casablanca.
 
 Cet espace a été conçu comme une **vitrine institutionnelle et académique** dédiée à la valorisation des **projets, travaux de recherche et réalisations majeures** issus de la filière.
@@ -30,8 +15,7 @@ Ici, nous mettons en avant :
 - 📚 Les **travaux de recherche et publications**
 - 🏆 Les **réalisations remarquables et projets d’excellence**
 - 🤝 Les **projets académiques et industriels structurants**
-
----
+</p>
 
 ## Notre vision
 
