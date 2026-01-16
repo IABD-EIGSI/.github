@@ -21,7 +21,6 @@ Ce que nous mettons en avant :
 
 </div>
 
----
 
 ## Notre vision
 
