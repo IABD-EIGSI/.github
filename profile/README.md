@@ -1,72 +1,58 @@
-<p align="center">
-<img width="1327" height="616" alt="image" src="https://github.com/user-attachments/assets/92a512d3-0452-479f-9278-ec5384b37e88" />
+<p align="center"> <img width="1327" height="616" alt="image" src="https://github.com/user-attachments/assets/92a512d3-0452-479f-9278-ec5384b37e88" /> </p> <p align="center"> Bienvenue sur l’espace GitHub officiel de la filière <strong>IABD – Intelligence Artificielle & Big Data</strong> de l’<strong>École d'ingénieurs en génie des systèmes industriels (EIGSI Casablanca)</strong>.
 
-</p>
-
-
-<p align="center">
-Bienvenue sur l’espace GitHub officiel de la **filière IABD – Intelligence Artificielle & Big Data** de l’EIGSI Casablanca.
-
-Cet espace a été conçu comme une **vitrine institutionnelle et académique** dédiée à la valorisation des **projets, travaux de recherche et réalisations majeures** issus de la filière.
+Cet espace a été conçu comme une vitrine institutionnelle et académique dédiée à la valorisation des <strong>projets, travaux de recherche et réalisations majeures</strong> réalisés par nos étudiants.
 
 Ici, nous mettons en avant :
 
-- 🧠 Les **meilleurs projets étudiants**
-- 📚 Les **travaux de recherche et publications**
-- 🏆 Les **réalisations remarquables et projets d’excellence**
-- 🤝 Les **projets académiques et industriels structurants**
+Les <strong>travaux de recherche et publications</strong>
+
+Les <strong>projets d’excellence et réalisations remarquables</strong>
+
+Les <strong>événements et activités académiques</strong>
+
+100% réalisés par nos étudiants !
+
 </p>
 
-## Notre vision
+### Notre vision
 
-> Mettre en valeur l’excellence, l’innovation et la rigueur scientifique  
-> qui caractérisent la formation IABD et ses étudiants.
+Former une nouvelle génération d’ingénieurs capable de construire le monde numérique de demain à travers un écosystème basé sur trois axes complémentaires :
 
-Ce GitHub n’est **pas** une plateforme de dépôt généraliste de projets,  
-mais un **espace de sélection, de présentation et de mémoire** des travaux les plus significatifs de la filière.
+Excellence pédagogique :
 
----
+Parcours innovants, mis à jour chaque année pour suivre les tendances du marché.
 
-## Organisation de cet espace
+Recherche & Développement :
 
-Les dépôts sont organisés autour de plusieurs axes :
+Renforcement des compétences scientifiques et techniques via des projets R&D, en partenariat avec l’industrie, pour développer des compétences professionnelles en IT et en IA.
 
-- 📘 **Research & Publications** — Recherche scientifique et articles
-- 🚀 **Best Projects** — Projets étudiants remarquables
-- 🏭 **Industrial Projects** — Projets en collaboration avec des partenaires
-- 🏅 **Distinctions & Réalisations** — Projets primés et travaux d’exception
+Événementiel et networking :
 
-Chaque projet présenté fait l’objet d’une **sélection et d’une validation académique**.
+Organisation d’événements pour favoriser le réseautage, renforcer les soft skills et préparer les étudiants aux défis du monde professionnel.
 
----
+<img width="1278" height="665" alt="image" src="https://github.com/user-attachments/assets/9df5bff5-1ac1-4555-bad9-2ceb001c77a6" />
 
-## Gouvernance
 
-- 🛡️ **Admins** : Gestion, publication et validation des contenus
-- 👨‍🏫 **Enseignants** : Consultation et contribution encadrée
-- 🎓 **Étudiants** : Consultation et valorisation des travaux
-
-> Les publications sont assurées et validées par l’équipe responsable de la filière.
-
----
-
-## Remerciements
+### Remerciements
 
 Nous saluons et remercions chaleureusement :
 
-- Les **étudiants** pour leur engagement, leur créativité et leur sérieux
-- Les **enseignants et encadrants** pour leur accompagnement et leur exigence académique
-- Les **partenaires** pour leur confiance et leur collaboration
+Nos étudiants, pour leur créativité, leur engagement et leur sérieux
 
----
+Nos enseignants et encadrants, pour leur accompagnement et leur exigence académique
 
-## Contact
+Nos partenaires, pour leur confiance et leur collaboration
 
-> Filière IABD – EIGSI Casablanca  
-> Intelligence Artificielle & Big Data
+### Contact
 
----
+Si vous souhaitez collaborer et rejoindre la filière IABD, n’hésitez pas à nous contacter :
 
-<p align="center">
-✨ <i>Façonner l’intelligence de demain, aujourd’hui.</i> ✨
-</p>
+Filière IABD – EIGSI Casablanca
+Intelligence Artificielle & Big Data
+Sohaib Baroud, PhD en Informatique & IA
+Coordinateur de la filière IABD
+📧 sohaib.baroud@eigsica.ma
+
+<p align="center"> ✨ <i>Façonner l’intelligence de demain, aujourd’hui.</i> ✨ </p>
+
+
