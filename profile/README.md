@@ -24,6 +24,10 @@ Ce que nous mettons en avant :
 
 ## Notre vision
 
+<p align="center">
+  <img width="1278" height="665" alt="image" src="https://github.com/user-attachments/assets/9df5bff5-1ac1-4555-bad9-2ceb001c77a6" />
+</p>
+
 Former une nouvelle génération d’ingénieurs capable de construire le monde numérique de demain à travers un écosystème basé sur trois axes complémentaires :
 
  #### 1. Excellence pédagogique
@@ -35,9 +39,7 @@ Former une nouvelle génération d’ingénieurs capable de construire le monde 
  #### 3. Événementiel et networking
 - Organisation d’événements pour favoriser le réseautage, renforcer les soft skills et préparer les étudiants aux défis du monde professionnel.
 
-<p align="center">
-  <img width="1278" height="665" alt="image" src="https://github.com/user-attachments/assets/9df5bff5-1ac1-4555-bad9-2ceb001c77a6" />
-</p>
+
 
 ---
 
