@@ -58,7 +58,7 @@ Si vous souhaitez collaborer et rejoindre la filière IABD, n’hésitez pas à 
 Coordinateur de la filière IABD  
 📧 sohaib.baroud@eigsica.ma  
 
-**Badr-Eddine Benelmostafa, Doctorant en IA, LRI,ENSEM, Université Hassan II de Casablanca**  
+**Badr-Eddine Benelmostafa, Doctorant en IA**  
 Assistant Coordinateur de la filière IABD  
 📧 be.benelmostafa@eigsica.ma
 
