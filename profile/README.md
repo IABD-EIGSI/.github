@@ -4,14 +4,14 @@
 
 </p>
 
-<div align="center">
+<div align="center" align="justify" >
 
 ## Bienvenue sur l’espace GitHub officiel de la filière IABD
 
 Cet espace est une vitrine institutionnelle et académique dédiée à la valorisation des projets, travaux de recherche et réalisations majeures réalisés par nos étudiants au sein de la filière IABD – Intelligence Artificielle & Big Data  
 de l’École d'ingénieurs en génie des systèmes industriels (EIGSI Casablanca).
 
-Ce que nous mettons en avant
+Ce que nous mettons en avant :
 
 - **Travaux de recherche et publications**  
 - **Projets d’excellence et réalisations remarquables**  
