@@ -54,11 +54,14 @@ Nous saluons et remercions chaleureusement :
 
 Si vous souhaitez collaborer et rejoindre la filière IABD, n’hésitez pas à nous contacter :  
 
-**Filière IABD – EIGSI Casablanca**  
-Intelligence Artificielle & Big Data  
 **Sohaib Baroud, PhD en Informatique & IA**  
 Coordinateur de la filière IABD  
 📧 sohaib.baroud@eigsica.ma  
+
+**Badr-Eddine Benelmostafa, Doctorant en IA, LRI,ENSEM, Université Hassan II de Casablanca**  
+Assistant Coordinateur de la filière IABD  
+📧 be.benelmostafa@eigsica.ma
+
 
 ---
 
