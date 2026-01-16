@@ -40,9 +40,6 @@ Former une nouvelle génération d’ingénieurs capable de construire le monde 
 - Organisation d’événements pour favoriser le réseautage, renforcer les soft skills et préparer les étudiants aux défis du monde professionnel.
 
 
-
----
-
 ## Remerciements
 
 Nous saluons et remercions chaleureusement :
@@ -51,7 +48,6 @@ Nous saluons et remercions chaleureusement :
 - **Nos enseignants et encadrants** : pour leur accompagnement et leur exigence académique  
 - **Nos partenaires** : pour leur confiance et leur collaboration  
 
----
 
 ## Contact
 
