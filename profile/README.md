@@ -16,7 +16,7 @@ Ce que nous mettons en avant
 - **Projets d’excellence et réalisations remarquables**  
 - **Événements et activités académiques**  
 
-> 100% réalisés par nos étudiants !
+ 100% réalisés par nos étudiants !
 
 </div>
 
